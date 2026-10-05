@@ -1,0 +1,10 @@
+{
+  "description": "I’m Esther, a chemistry educator and people-focused professional based in Port Harcourt. I bring curiosity, warmth, and a strong sense of responsibility to every opportunity.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
